@@ -1,5 +1,5 @@
 {
-  "name": "resume",
+  "name": "shanicanikad",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "your-command-here": "./index.js"
+    "sending_resume": "./index.js"
   }
 }
