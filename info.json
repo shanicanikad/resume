@@ -1,0 +1,26 @@
+{
+    "name": "Shanica Denis",
+    "website": "https://github.com/shanicanikad",
+    "linkedin": "https://www.linkedin.com/in/shanica-denis-918553a6/",
+    "github": "https://github.com/shanicanikad",
+    "email": "shanicanikad@gmail.com",
+    "resume": "https://docs.google.com/document/d/1T_7RBVxr46zYOAQ6v5oGIKlJh1oYe_FBIzmMwyJNqtw/edit",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
